@@ -1,2 +1,2 @@
 print('Hello world')
-print('Addition check')
+print('Multiply check')
